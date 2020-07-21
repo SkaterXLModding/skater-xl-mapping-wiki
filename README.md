@@ -8,6 +8,6 @@
 
 ### [Wiki Home](https://github.com/SqueegeeDino/skaterxl-mapping-wiki/wiki)
 
-### [Making Your First Map]
+### [Creating Your First Map](https://github.com/SqueegeeDino/skaterxl-mapping-wiki/wiki/Creating-Your-First-Map)
 
 ### [Upgrading maps to 1.0](https://github.com/SqueegeeDino/skaterxl-mapping-wiki/wiki/Upgrading-to-1.0)
