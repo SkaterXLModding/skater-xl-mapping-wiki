@@ -8,4 +8,4 @@
 
 ### [Wiki Home](https://github.com/SqueegeeDino/skaterxl-mapping-wiki/wiki)
 
-### [Upgrading maps to 1.0]
+### [Upgrading maps to 1.0](https://github.com/SqueegeeDino/skaterxl-mapping-wiki/wiki/Upgrading-to-1.0)
