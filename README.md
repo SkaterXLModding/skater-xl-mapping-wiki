@@ -6,5 +6,6 @@
 
 # Quick Links
 
-[Wiki Index]
-[Upgrading maps to 1.0]
+### [Wiki Index]
+
+### [Upgrading maps to 1.0]
