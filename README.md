@@ -6,6 +6,6 @@
 
 # Quick Links
 
-### [Wiki Index]
+### [Wiki Home](https://github.com/SqueegeeDino/skaterxl-mapping-wiki/wiki)
 
 ### [Upgrading maps to 1.0]
