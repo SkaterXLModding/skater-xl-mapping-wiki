@@ -4,7 +4,7 @@
 
 **Interested in becoming a contributer? Contact us at the Modders [Hangout Discord](https://discord.gg/X27YBv5)**
 
-### Quick Links
+##### Quick Links
 
 [Wiki Index]
 [Upgrading maps to 1.0]
