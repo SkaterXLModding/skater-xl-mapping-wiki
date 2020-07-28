@@ -13,3 +13,5 @@
 ### [Upgrading maps to 1.0](https://github.com/SqueegeeDino/skaterxl-mapping-wiki/wiki/Upgrading-to-1.0)
 
 ### [Quick Reference Info](https://github.com/SqueegeeDino/skaterxl-mapping-wiki/wiki/Quick-Reference-Information)
+
+### [Boilerplate SXL Project](https://github.com/SkaterXLModding/skater-xl-unity-boilerplate)
