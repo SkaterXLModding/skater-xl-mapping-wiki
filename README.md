@@ -15,3 +15,11 @@
 ### [Quick Reference Info](https://github.com/SqueegeeDino/skaterxl-mapping-wiki/wiki/Quick-Reference-Information)
 
 ### [Boilerplate SXL Project](https://github.com/SkaterXLModding/skater-xl-unity-boilerplate)
+
+# Recommended Tools
+
+### [Blender](https://www.blender.org/download/)
+
+### [Unity](https://unity3d.com/get-unity/download)
+
+## [Bills Tools](https://github.com/billowper/SXL-Template-Project)
